@@ -25,7 +25,8 @@ class Intro extends React.Component {
                       "Software Engineer",
                       "Data Science",
                       "Machine Learning",
-                      "Deep Learing",
+                      "Deep Learning",
+                      "Computer Vision",
                       "Mobile Application Developer",
                     ]}
                     typeSpeed={80}
